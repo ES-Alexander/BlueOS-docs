@@ -159,6 +159,8 @@ It's worth noting that the [Version Chooser](../advanced/#blueos-version) in gen
 - [Issues and Feature Requests](https://github.com/bluerobotics/BlueOS/issues)
 - [Chat (Discord)](https://discord.gg/w2yZK6Qkdr)
 
-### Developer Presentations
+### Presentations
+`Scripps Technical Forum (March 2024)`
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IWr43VsjY3o?si=1WJfKOAjFsq9zmKQ" title="YouTube video player" frameborder="0" allow="encrypted-media;" allowfullscreen></iframe>
 
-See [development docs](@/development/overview/index.md#developer-presentations).
+See [development docs](@/development/overview/index.md#developer-presentations) for developer presentations.
